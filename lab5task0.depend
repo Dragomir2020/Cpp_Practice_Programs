@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1456454309 source:/Users/dillondragomir/Documents/C++/lab5task0/lab5task0.cpp
+	<iostream>
+	<ctime>
+
+1456454126 source:/Users/dillondragomir/Documents/C++/lab5task0/lab5task0_max.cpp
+	<iostream>
+
