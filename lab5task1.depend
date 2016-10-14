@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1456454517 source:/Users/dillondragomir/Documents/C++/lab5task1/lab5task1.cpp
+	<random>
+	<iostream>
+	<ctime>
+
+1456409155 source:/Users/dillondragomir/Documents/C++/lab5task1/lab5task1_add.cpp
+	<iostream>
+
